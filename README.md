@@ -1,15 +1,15 @@
- \<html>
-\
-\
-    \<head>
-\
+<html>
+
+
+    <head>
+
         <title>Flappy Bird</title>
-\
-    \</head>
-\
-    \<body>    
-        \<canvas id='game' width=500 height=500>        
-        \<script>
+
+    </head>
+
+    <body>    
+        <canvas id='game' width=500 height=500>        
+        <script>
           
             let canvas,ctx;
             window.onload = function() {
@@ -87,12 +87,12 @@
                 })
             }
 
-\
+
         </script>
-\
-    \</body>
+
+    </body>
     
-\</html>
+</html>
 
 <!---
 joseph-forbes/joseph-forbes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
